@@ -1,4 +1,6 @@
-# Multi-Agent LangChain Analyzer
+# LLMDocAssistant
+
+Multi-Agent LangChain Analyzer
 
 This project implements a multi-agent system using LangChain that allows multiple specialized AI agents to analyze user input, generate follow-up questions, and create summaries. All agents share the same conversation memory, allowing them to build upon each other's insights.
 
